@@ -1,0 +1,5 @@
+ipython==9.1.0
+ipython_pygments_lexers==1.1.1
+matplotlib==3.10.1
+matplotlib-inline==0.1.7
+pandas==2.2.3
